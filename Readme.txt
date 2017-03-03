@@ -2,6 +2,8 @@ CS671 - Deep Learning and its Applications
 Assignment 1
 Submitted by: Samriddhi Jain (B13136)
 
+Function Approximation using Ridge Regression
+
 Steps to run the code
 The code is completely generalised in nature, user can change various parameters from the command-line itself.
 The code in fit_poly file fits a M degree polynomial into randomly sampled N points. Various effects of different parameters have been coded with wrappers in file fit_curve.py, which calls the functions in above mentioned file and plots the curve.
